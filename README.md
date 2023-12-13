@@ -4,7 +4,9 @@
 View our frontend [here](https://dolphin-app-k989q.ondigitalocean.app/)
 
 Access our test user using: 
+
 Username: Steven
+
 Password: 12345
 
 ## Project Description
