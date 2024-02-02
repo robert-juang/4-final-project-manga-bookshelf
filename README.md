@@ -1,7 +1,7 @@
 # Manga Bookshelf Project
 
 ## Live Link
-View our frontend [here](https://dolphin-app-k989q.ondigitalocean.app/)
+View our frontend [here](https://manga-book-shelf-frontend.vercel.app/)
 
 Access our test user using: 
 Username: Steven
